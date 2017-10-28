@@ -1,0 +1,7 @@
+name: PlotManager
+version: 1.0
+main: com.digiturtle.plots.Plots
+commands:
+  plots:
+    usage: Use /plots for usage information
+    description: Use the PlotManager plugin
